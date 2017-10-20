@@ -3,6 +3,12 @@
     "description": "deployer's Chatwork recipe",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "deployer",
+        "recipes",
+        "chatwork"
+    ],
+    "homepage": "https://github.com/Ippey/deployer-chatwork-recipe",
     "authors": [
         {
             "name": "Ippei Sumida",
