@@ -1,0 +1,22 @@
+{
+    "name": "ippey/deployer-chatwork-recipe",
+    "description": "deployer's Chatwork recipe",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ippei Sumida",
+            "email": "ippey.s@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ]
+    },
+    "replace": {
+        "deployer/recipes": "self.version"
+    }
+}
